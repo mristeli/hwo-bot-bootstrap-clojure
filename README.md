@@ -1,6 +1,6 @@
 # Pingpong Clojure Client
 
-This project contains a coffeescript client for the [Reaktor Hello World Open event](http://helloworldopen.fi/).
+This project contains a clojure client for the [Reaktor Hello World Open event](http://helloworldopen.fi/).
 
 NOTICE: The test server enforces a threshold of 10 messages per client in a second. At the moment the bot answers each message from the server with up direction message. This exceeds the threshold defined by the server and kicks the bot out of the game.
 
